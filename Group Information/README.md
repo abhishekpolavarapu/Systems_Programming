@@ -25,3 +25,8 @@ grinfo    [ -c  <count> |  -g  < group name>  |  -u   <user login name>  | -n  <
           For each member of the group, it displays its login, its main group name and its name (or <NULL> if name field is empty).
  
  If no specified option :   Shows how to use the command and its options
+
+
+to execute type
+
+./grinfo.sh
